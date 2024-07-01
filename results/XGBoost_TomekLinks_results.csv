@@ -1,0 +1,3 @@
+mean_test_score,mean_train_score,param_n_estimators,param_learning_rate,param_max_depth,param_subsample,param_colsample_bytree,param_gamma
+0.8928016539863645,0.9499113226046372,300,0.1,8,1.0,1.0,0.1
+0.8940801681596822,0.9665013720867026,300,0.1,10,1.0,1.0,0.1
